@@ -39,8 +39,6 @@ Digite suas mensagens após o prompt "Você: "
 O modelo responderá a cada mensagem
 Para encerrar a conversa, digite "sair"
 
-aqui vai o codigo do chatbot
-
 chatbot.py
 🔒 Segurança
 Importante: Nunca compartilhe sua chave de API em repositórios públicos. No código de exemplo, a chave está exposta apenas para fins didáticos. Em um ambiente de produção, considere:
